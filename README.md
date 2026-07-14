@@ -12,8 +12,8 @@ the community.
 The Calico maintainers host a monthly online community meeting where everyone is welcome. If you have something you’d like to
 talk about, please add it to the upcoming meeting agenda.
 
-- [Community Event Calendar](https://calendar.google.com/calendar/u/0?cid=Y183MDE5YTcyMDQ2OTYzYmJhMWJkN2RhZWFmMTUyNjY2Mjk4NDVhMGU0MjFjNzk1MTAxNjE2YzdjMTE5NDM0N2EwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-  (google calendar)
+- [Community Event Calendar](https://zoom.us/meeting/tJEqc-qvqjsqGdxOtxxZqxCXSlR7c9rYYRUo/ics?icsToken=DJpyE2RWw9bSi2VfPgAALAAAAEM_VjgLlPg7KDvwrd4JCzdnI3JgnH90dwQXYNXcbKyNxJU_NEmpynHEN3uU7eyQRh6d8bqd-88lNzKjuDAwMDAwMQ&meetingMasterEventId=yIgppdUvQrq_8iE8TgWpwA)
+  ics import
 - Zoom Meeting information can be found in the Calendar invite.
 - [Meeting Details](https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/)
   (agenda, minutes, and recordings)
